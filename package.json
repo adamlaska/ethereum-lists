@@ -14,7 +14,7 @@
     "test": "npm run test:checkToken; npm run test:checkContract; npm run test:checkNft; npm run test:checkMasterFile",
     "compile": "node compile.js",
     "precommit": "pretty-quick --staged",
-    "clean": "rm notinlist.json maticTokens.json ethTokens.json bscTokens.json; node clean.js"
+    "clean": "rm notinlist.json polTokens.json ethTokens.json bscTokens.json baseTokens.json; node clean.js"
   },
   "license": "ISC",
   "bugs": {
@@ -25,10 +25,10 @@
     "eslint-plugin-json": "^1.2.1",
     "husky": "^0.14.3",
     "pretty-quick": "^1.6.0",
-    "web3": "^1.4.0"
+    "web3": "^1.8.0"
   },
   "dependencies": {
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "prettier": "^1.14.2",
     "validate.js": "^0.13.1"
   }

@@ -13,6 +13,7 @@ const constraints = {
         'akroma',
         'ath',
         'bsc',
+        'base',
         'clo',
         'egem',
         'ella',
@@ -27,6 +28,7 @@ const constraints = {
         'iolite',
         'kov',
         'mix',
+        'pol',
         'matic',
         'music',
         'pirl',
@@ -40,7 +42,13 @@ const constraints = {
         'tt',
         'ubq',
         'web',
-        'wtc'
+        'wtc',
+        'aa',
+        'aat',
+        'amoy',
+        'coti',
+        'holesky',
+        'xdc'
       ]
     },
     type: 'string'

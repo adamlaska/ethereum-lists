@@ -1,0 +1,27 @@
+{
+  "symbol": "USDON",
+  "name": "Ondo U.S. Dollar Token",
+  "type": "ERC20",
+  "address": "0xAcE8E719899F6E91831B18AE746C9A965c2119F1",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
